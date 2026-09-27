@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.secrets/
+.env
+.env.*
+paper_runtime/
+*.log
+vix_research/data/
+vix_research/outputs/

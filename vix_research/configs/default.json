@@ -1,0 +1,19 @@
+{
+  "target_vol": 0.10,
+  "covariance_window": 63,
+  "covariance_shrinkage": 0.25,
+  "equity_filter": "both",
+  "defensive_filter": true,
+  "defensive_window": 126,
+  "use_vix": true,
+  "vol_model": "portfolio",
+  "entry_thresholds": [0.65, 0.85, 0.95],
+  "exit_thresholds": [0.55, 0.75, 0.90],
+  "panic_vix": 35.0,
+  "panic_exit_vix": 30.0,
+  "drift_tolerance": 0.05,
+  "minimum_trade_weight": 0.005,
+  "cash_buffer": 0.005,
+  "daily_risk_checks": true,
+  "risk_breach_tolerance": 0.20
+}

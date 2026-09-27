@@ -1,0 +1,4 @@
+# Install alongside the project's original requirements.
+hmmlearn==0.3.3
+scikit-learn==1.9.1
+threadpoolctl==3.7.0
