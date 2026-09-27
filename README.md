@@ -1,6 +1,6 @@
 # VIX regime and multi-asset backtesting
 
-Research code accompanying Lavie Kolchinsky's algorithmic-trading project. It compares VIX regime allocation, ETF momentum and volatility control with passive portfolios, annual strategy selection, broader asset-class trend and an experimental hidden Markov model (HMM).
+Research code accompanying algorithmic-trading project. It compares VIX regime allocation, ETF momentum and volatility control with passive portfolios, annual strategy selection, broader asset-class trend and an experimental hidden Markov model (HMM).
 
 ## Strategies and evidence
 
